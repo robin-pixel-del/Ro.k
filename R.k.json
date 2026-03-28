@@ -88,6 +88,66 @@
         { "id": "ao4EyXFbqt8", "title": "Maneras", "duration": 241 },
         { "id": "hvQ-C-14SmU", "title": "Mamá No Me Quiero Casar", "duration": 311 }
       ]
+    },
+    {
+      "category": "Mar de Copas",
+      "tracks": [
+        { "id": "vD2CCdrd5c8", "title": "Mujer Noche", "duration": 310 },
+        { "id": "VUM8pzErYCg", "title": "Suna (Versión 2024 Restaurado)", "duration": 294 },
+        { "id": "jmtCOIJnYdw", "title": "Un día sin Sexo", "duration": 252 }
+      ]
+    },
+    {
+      "category": "Rata Blanca",
+      "tracks": [
+        { "id": "51cZsDsVOqc", "title": "La Leyenda Del Hada Y El Mago", "duration": 320 },
+        { "id": "V7q1jN7k5lg", "title": "Mujer Amante", "duration": 355 },
+        { "id": "kyNBv1liYtQ", "title": "Talismán (Video Oficial)", "duration": 279 }
+      ]
+    },
+    {
+      "category": "Molotov",
+      "tracks": [
+        { "id": "Pke3A2XuBLg", "title": "Amateur (Rock Me Amadeus)", "duration": 276 },
+        { "id": "X_r8O1JhzWA", "title": "Gimme Tha Power (Video Original)", "duration": 261 }
+      ]
+    },
+    {
+      "category": "Grupo Río",
+      "tracks": [
+        { "id": "BvP615QRjQk", "title": "Contestame", "duration": 218 },
+        { "id": "ylq4JKSZrAA", "title": "La Universidad (Cosa de locos)", "duration": 241 },
+        { "id": "TyetdP_okpI", "title": "Lo peor de todo (Video Oficial)", "duration": 296 },
+        { "id": "d5ATHsTCNhc", "title": "Al Norte de América", "duration": 232 },
+        { "id": "O3Ge_1rB6tE", "title": "Carol quiere un viaje a Londres", "duration": 201 }
+      ]
+    },
+    {
+      "category": "GIT",
+      "tracks": [
+        { "id": "EkMzD12BYMw", "title": "La calle es su lugar (ANA)", "duration": 229 },
+        { "id": "3Q57exxCDmM", "title": "SIEMPRE FUISTE MI AMOR", "duration": 238 }
+      ]
+    },
+    {
+      "category": "Los Abuelos de la Nada & Andrés Calamaro",
+      "tracks": [
+        { "id": "0hbSKnbsFhQ", "title": "Lunes por la madrugada", "duration": 194 },
+        { "id": "5IR5CdvBQPY", "title": "Mil Horas", "duration": 168 },
+        { "id": "ZD42DCCP_gA", "title": "La parte de adelante", "duration": 260 }
+      ]
+    },
+    {
+      "category": "Clásicos del Rock & Pop Latino",
+      "tracks": [
+        { "id": "XLSR7rqjilU", "title": "Virus - Luna de miel", "duration": 307 },
+        { "id": "BRdh6LhFFyg", "title": "Sangre Púrpura - Travesti (Qué te pasa Javier)", "duration": 256 },
+        { "id": "IFxv42xPPXU", "title": "Mambrú - A Veces", "duration": 248 },
+        { "id": "2NTXJZwTiIs", "title": "Ex - La Corbata de Mi Tío", "duration": 186 },
+        { "id": "4MULjbUhIz4", "title": "La Mosca Tse-Tse - Para No Verte Mas", "duration": 212 },
+        { "id": "Qso7QJUCZyI", "title": "Los Auténticos Decadentes - Corazón", "duration": 242 },
+        { "id": "DAIxrSvq6bo", "title": "Nek - Laura no está", "duration": 229 }
+      ]
     }
   ]
 }
