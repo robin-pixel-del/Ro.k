@@ -1,0 +1,93 @@
+{
+  "genres": [
+    {
+      "category": "Soda Stereo & Gustavo Cerati",
+      "tracks": [
+        { "id": "OX-us7PEfkc", "title": "De Musica Ligera (El Último Concierto)", "duration": 290 },
+        { "id": "eguctGjUNLI", "title": "Prófugos (Gira Me Verás Volver)", "duration": 353 },
+        { "id": "LalPz4lIZYk", "title": "Persiana Americana (Official Audio)", "duration": 294 },
+        { "id": "VoGwvVoaoCw", "title": "En La Ciudad De La Furia (Gira Me Verás Volver)", "duration": 401 },
+        { "id": "ZNzYr4U7Zs8", "title": "Cuando Pase el Temblor (Official Video)", "duration": 270 },
+        { "id": "-XIeMp4zQC4", "title": "De musica ligera en vivo", "duration": 265 },
+        { "id": "UPVfQKUHTSc", "title": "Trátame Suavemente (Official Audio)", "duration": 203 },
+        { "id": "LB6_e2uA7rE", "title": "Nada Personal (Gira Me Verás Volver)", "duration": 375 },
+        { "id": "kNvTIyNpYSE", "title": "Cosas Imposibles (Official Video)", "duration": 256 },
+        { "id": "7ZdLVrui8tM", "title": "Persiana Americana (El Último Concierto)", "duration": 281 },
+        { "id": "CEb99v79yRM", "title": "Signos (Official Audio)", "duration": 317 }
+      ]
+    },
+    {
+      "category": "Libido",
+      "tracks": [
+        { "id": "uIaoKARzbJQ", "title": "Frágil (Video Oficial)", "duration": 227 },
+        { "id": "QbwgYSP4gQw", "title": "Ojos de ángel (Video Oficial)", "duration": 175 },
+        { "id": "RGuywvoXS0E", "title": "En Esta Habitación (Video Oficial)", "duration": 261 }
+      ]
+    },
+    {
+      "category": "Héroes del Silencio & Enrique Bunbury",
+      "tracks": [
+        { "id": "SzimletXB7M", "title": "Entre dos tierras (videoclip oficial)", "duration": 370 },
+        { "id": "SqB4FSettTI", "title": "Maldito duende", "duration": 261 },
+        { "id": "7top5v_-3dY", "title": "Héroe de Leyenda", "duration": 264 },
+        { "id": "Ew_PcY2pFeU", "title": "Héroe De Leyenda (1988)", "duration": 247 }
+      ]
+    },
+    {
+      "category": "Vilma Palma e Vampiros",
+      "tracks": [
+        { "id": "1r-XsNYFhiU", "title": "Bye Bye (Video Remasterizado 2025)", "duration": 345 },
+        { "id": "RALnmfrwtqM", "title": "Bye Bye (Video Oficial)", "duration": 349 },
+        { "id": "95kf6cCasfg", "title": "Auto Rojo", "duration": 305 },
+        { "id": "9OlovhrXRFY", "title": "Verano traidor", "duration": 420 },
+        { "id": "5jUItXi0cTY", "title": "Me vuelvo loco por vos", "duration": 290 },
+        { "id": "uirC4zgtpXs", "title": "Todo lo que fue", "duration": 320 }
+      ]
+    },
+    {
+      "category": "Enanitos Verdes",
+      "tracks": [
+        { "id": "0A0d5f1eNhQ", "title": "Lamento Boliviano HD", "duration": 226 },
+        { "id": "oxFmXlcduI4", "title": "Te Ví en un Tren", "duration": 249 },
+        { "id": "BDIHScVuS3k", "title": "Cada Vez que Digo Adiós", "duration": 238 }
+      ]
+    },
+    {
+      "category": "Rock Peruano y Latino Clasico",
+      "tracks": [
+        { "id": "SvmiFL96kTc", "title": "Magdalena (en vivo) - Nosequién", "duration": 384 },
+        { "id": "5OfxhN8sIs4", "title": "Cuéntame - PSV", "duration": 239 },
+        { "id": "PcR8P1pG2pE", "title": "Las Torres - Nosequién", "duration": 205 },
+        { "id": "qTUi2sCxQ1o", "title": "Triciclo Perú - Los Mojarras", "duration": 218 },
+        { "id": "dCZaYgiBrgQ", "title": "Cuando La Cama Me Da Vueltas - Arena Hash", "duration": 185 },
+        { "id": "lYPo_AxvjB4", "title": "Un Vino, Una Cerveza - PSV", "duration": 276 },
+        { "id": "fB01FVQ5BMU", "title": "Me Estoy Enamorando - PSV", "duration": 287 },
+        { "id": "XwiEAjM3kOo", "title": "Carreteras Mojadas - Christian Meier", "duration": 270 },
+        { "id": "CRBincBc_8k", "title": "Mariposa Tecknicolor - Fito Paez", "duration": 224 },
+        { "id": "GbSXNzWXQYw", "title": "Así Es la Vida - Elefante", "duration": 319 },
+        { "id": "d1dcXgGQT2M", "title": "Mentira - La Ley", "duration": 289 },
+        { "id": "d0TkrT3sguM", "title": "La Guitarra - Auténticos Decadentes", "duration": 219 },
+        { "id": "IlbLc-O_i-o", "title": "Para No Verte Más - La Mosca", "duration": 197 },
+        { "id": "FvVoBFxtHC8", "title": "Me colé en una fiesta - Mecano", "duration": 273 },
+        { "id": "HOrjEmEiJv4", "title": "Barco A Venus (Vivo) - Mecano", "duration": 290 }
+      ]
+    },
+    {
+      "category": "Anabantha",
+      "tracks": [
+        { "id": "AZwirxe0e20", "title": "Nocturna", "duration": 238 },
+        { "id": "zc_06TmHNDw", "title": "Deja Vu", "duration": 300 },
+        { "id": "qH4hK8LK4Rg", "title": "Sangre", "duration": 233 }
+      ]
+    },
+    {
+      "category": "X Dinero",
+      "tracks": [
+        { "id": "dKNv83bKvjU", "title": "Ella besa así", "duration": 215 },
+        { "id": "PUCDKNWlg08", "title": "El último Huayno", "duration": 319 },
+        { "id": "ao4EyXFbqt8", "title": "Maneras", "duration": 241 },
+        { "id": "hvQ-C-14SmU", "title": "Mamá No Me Quiero Casar", "duration": 311 }
+      ]
+    }
+  ]
+}
